@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ONG Exemplo - Página Inicial</title>
+    <meta name="description" content="Conheça a ONG Exemplo, nossa missão, visão e valores. Informações de contato e impacto social.">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="projetos.html">Projetos</a></li>
+                <li><a href="cadastro.html">Cadastro</a></li>
+            </ul>
+        </nav>
+        <img src="assets/images/ong-logo.png" alt="Logo da ONG Exemplo" width="200" height="100">
+    </header>
+    
+    <main>
+        <section id="sobre">
+            <h1>Sobre a ONG Exemplo</h1>
+            <p>Nossa missão é promover inclusão social e sustentabilidade através de projetos comunitários de tecnologia.</p>
+            <img src="assets/images/missao.jpg" alt="Equipe da ONG trabalhando em um projeto" width="600" height="400">
+            <h2>Visão e Valores</h2>
+            <p>Visão: Um mundo mais justo e sustentável e tecnológico. Valores: Transparência, empatia e inovação.</p>
+            <h3>Histórico e Conquistas</h3>
+            <p>Fundada em 2010, já impactamos mais de 10.000 pessoas com projetos educacionais e ambientais.</p>
+        </section>
+        
+        <section id="contato">
+            <h2>Informações de Contato</h2>
+            <address>
+                Endereço: Rua Todos Nós, 123 - Legal, São Paulo<br>
+                Telefone: (11) 99999-9999<br>
+                E-mail: contato@ongexemplo.com
+            </address>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 ONG Exemplo. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
