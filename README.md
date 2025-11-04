@@ -133,7 +133,7 @@ Este repositório está licenciado sob a [MIT License](LICENSE). Veja o arquivo 
 
 *Última atualização: Outubro 2023*  
 *Versão: v1.0.0*  
-*Conforme especificações de entrega final para práticas profissionais em desenvolvimento e cibersegurança.*
+*Conforme especificações de entrega profissionais em desenvolvimento e cibersegurança.*
 
 ---
 
